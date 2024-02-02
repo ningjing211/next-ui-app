@@ -14,6 +14,11 @@ export default function Home() {
 				{/* <h1 className={title()}>Make&nbsp;</h1>
 				<h1 className={title({ color: "violet" })}>beautiful&nbsp;</h1>
 				<br /> */}
+				<Link
+					isExternal
+					href="https://portfolio-seven-pied-56.vercel.app/projects"
+					className={buttonStyles({ color: "primary", radius: "full", variant: "shadow" })}
+				>Return</Link> <br/><br/>
 				<h1 className={title()}>
 					Creative Visuals
 				</h1>
