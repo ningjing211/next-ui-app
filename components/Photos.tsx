@@ -27,222 +27,222 @@ export default function BasicPage() {
     const list = [
         {
           title: "Orange",
-          img: "/Ai-Visuals/1.jpeg",
+          img: "/1.jpeg",
             price: "xxx",
         },
         {
           title: "Tangerine",
-          img: "/Ai-Visuals/2.jpeg",
+          img: "/2.jpeg",
             price: "xxx",
         },
         {
           title: "Raspberry",
-          img: "/Ai-Visuals/3.jpeg",
+          img: "/3.jpeg",
             price: "xxx",
         },
         {
           title: "Lemon",
-          img: "/Ai-Visuals/4.jpeg",
+          img: "/4.jpeg",
             price: "xxx",
         },
         {
         title: "Orange",
-        img: "/Ai-Visuals/5.jpeg",
+        img: "/5.jpeg",
             price: "xxx",
         },
             {
             title: "Tangerine",
-            img: "/Ai-Visuals/6.jpeg",
+            img: "/6.jpeg",
                 price: "xxx",
         },
             {
             title: "Raspberry",
-            img: "/Ai-Visuals/7.jpeg",
+            img: "/7.jpeg",
                 price: "xxx",
         },
             {
             title: "Lemon",
-            img: "/Ai-Visuals/8.jpeg",
+            img: "/8.jpeg",
                 price: "xxx",
         },
         {
             title: "Orange",
-            img: "/Ai-Visuals/9.jpeg",
+            img: "/9.jpeg",
             price: "xxx",
         },
             {
             title: "Tangerine",
-            img: "/Ai-Visuals/10.jpeg",
+            img: "/10.jpeg",
                 price: "xxx",
         },
             {
             title: "Raspberry",
-            img: "/Ai-Visuals/11.jpeg",
+            img: "/11.jpeg",
                 price: "xxx",
         },
             {
             title: "Lemon",
-            img: "/Ai-Visuals/12.jpeg",
+            img: "/12.jpeg",
                 price: "xxx",
         },
             {
             title: "Orange",
-            img: "/Ai-Visuals/13.jpeg",
+            img: "/13.jpeg",
                 price: "xxx",
         },
             {
             title: "Tangerine",
-            img: "/Ai-Visuals/14.jpeg",
+            img: "/14.jpeg",
                 price: "xxx",
         },
             {
             title: "Raspberry",
-            img: "/Ai-Visuals/15.jpeg",
+            img: "/15.jpeg",
                 price: "xxx",
         },
             {
             title: "Lemon",
-            img: "/Ai-Visuals/16.jpeg",
+            img: "/16.jpeg",
                 price: "xxx",
         },
             {
             title: "Orange",
-            img: "/Ai-Visuals/17.jpeg",
+            img: "/17.jpeg",
                 price: "xxx",
         },
             {
             title: "Tangerine",
-            img: "/Ai-Visuals/18.jpeg",
+            img: "/18.jpeg",
                 price: "xxx",
         },
             {
             title: "Raspberry",
-            img: "/Ai-Visuals/19.jpeg",
+            img: "/19.jpeg",
                 price: "xxx",
         },
             {
             title: "Lemon",
-            img: "/Ai-Visuals/20.jpeg",
+            img: "/20.jpeg",
                 price: "xxx",
         },
         {
             title: "Orange",
-            img: "/Ai-Visuals/21.jpeg",
+            img: "/21.jpeg",
             price: "xxx",
         },
             {
             title: "Tangerine",
-            img: "/Ai-Visuals/22.jpeg",
+            img: "/22.jpeg",
                 price: "xxx",
         },
             {
             title: "Raspberry",
-            img: "/Ai-Visuals/23.jpeg",
+            img: "/23.jpeg",
                 price: "xxx",
         },
             {
             title: "Lemon",
-            img: "/Ai-Visuals/24.jpeg",
+            img: "/24.jpeg",
                 price: "xxx",
         },
             {
             title: "Orange",
-            img: "/Ai-Visuals/25.jpeg",
+            img: "/25.jpeg",
                 price: "xxx",
         },
             {
             title: "Tangerine",
-            img: "/Ai-Visuals/26.jpeg",
+            img: "/26.jpeg",
                 price: "xxx",
         },
             {
             title: "Raspberry",
-            img: "/Ai-Visuals/27.jpeg",
+            img: "/27.jpeg",
                 price: "xxx",
         },
             {
             title: "Lemon",
-            img: "/Ai-Visuals/28.jpeg",
+            img: "/28.jpeg",
                 price: "xxx",
         },
         {
             title: "Orange",
-            img: "/Ai-Visuals/29.jpeg",
+            img: "/29.jpeg",
             price: "xxx",
         },
         {
             title: "Tangerine",
-            img: "/Ai-Visuals/30.jpeg",
+            img: "/30.jpeg",
             price: "xxx",
         },
         {
             title: "Raspberry",
-            img: "/Ai-Visuals/31.jpeg",
+            img: "/31.jpeg",
             price: "xxx",
         },
         {
             title: "Lemon",
-            img: "/Ai-Visuals/32.jpeg",
+            img: "/32.jpeg",
             price: "xxx",
         },
         {
         title: "Orange",
-        img: "/Ai-Visuals/33.jpeg",
+        img: "/33.jpeg",
             price: "xxx",
     },
         {
         title: "Tangerine",
-        img: "/Ai-Visuals/34.jpeg",
+        img: "/34.jpeg",
             price: "xxx",
     },
         {
         title: "Raspberry",
-        img: "/Ai-Visuals/35.jpeg",
+        img: "/35.jpeg",
             price: "xxx",
     },
         {
         title: "Lemon",
-        img: "/Ai-Visuals/36.jpeg",
+        img: "/36.jpeg",
             price: "xxx",
     },
     {
         title: "Orange",
-        img: "/Ai-Visuals/37.jpeg",
+        img: "/37.jpeg",
         price: "xxx",
     },
         {
         title: "Tangerine",
-        img: "/Ai-Visuals/38.jpeg",
+        img: "/38.jpeg",
             price: "xxx",
     },
         {
         title: "Raspberry",
-        img: "/Ai-Visuals/39.jpeg",
+        img: "/39.jpeg",
             price: "xxx",
     },
         {
         title: "Lemon",
-        img: "/Ai-Visuals/40.png",
+        img: "/40.png",
             price: "xxx",
     },
         {
         title: "Orange",
-        img: "/Ai-Visuals/41.png",
+        img: "/41.png",
             price: "xxx",
     },
         {
         title: "Tangerine",
-        img: "/Ai-Visuals/42.png",
+        img: "/42.png",
             price: "xxx",
     },
         {
         title: "Raspberry",
-        img: "/Ai-Visuals/43.png",
+        img: "/43.png",
             price: "xxx",
     },
         {
         title: "Lemon",
-        img: "/Ai-Visuals/44.png",
+        img: "/44.png",
             price: "xxx",
     },
 ];
@@ -277,7 +277,7 @@ export default function BasicPage() {
             
         //     <Image
         //         isZoomed
-        //         src="/Ai-Visuals/1.jpeg"
+        //         src="/1.jpeg"
         //         width={500}
         //         height={500}
         //         alt="Picture of the author"
