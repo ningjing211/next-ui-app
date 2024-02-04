@@ -17,7 +17,7 @@ export default function VisualsPage() {
 				<br /> */}
 				<Link
 					href="https://portfolio-seven-pied-56.vercel.app/projects"
-					className={buttonStyles({ color: "primary", radius: "full", variant: "shadow", fontSize: "defalut"})}
+					className={buttonStyles({ color: "primary", radius: "full", variant: "shadow"})}
 				>Return</Link> <br/><br/>
 				<h1 className={title()}>
 					Creative Visuals
