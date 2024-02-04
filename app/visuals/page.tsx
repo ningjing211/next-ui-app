@@ -5,14 +5,10 @@ import { button as buttonStyles } from "@nextui-org/theme";
 import { siteConfig } from "@/config/site";
 import { title, subtitle } from "@/components/primitives";
 import { GithubIcon } from "@/components/icons";
+
 import Photos from "@/components/Photos";
 
-// const numbers = [1, 2, 3, 4, 5];
-// const listItems = numbers.map((number) =>
-//   <li>{number}</li>
-// );
-
-export default function Home() {
+export default function VisualsPage() {
 	return (
 		<section className="flex flex-col items-center justify-center gap-4 py-8 md:py-10">
 			<div className="inline-block max-w-lg text-center justify-center">
@@ -21,7 +17,7 @@ export default function Home() {
 				<br /> */}
 				<Link
 					href="https://portfolio-seven-pied-56.vercel.app/projects"
-					className={buttonStyles({ color: "primary", radius: "full", variant: "shadow" })}
+					className={buttonStyles({ color: "primary", radius: "full", variant: "shadow", fontSize: "defalut"})}
 				>Return</Link> <br/><br/>
 				<h1 className={title()}>
 					Creative Visuals
@@ -31,36 +27,12 @@ export default function Home() {
 					AI Computing, Photoshop, Illustrator, Next UI
 				</h2>
 				
-				{/* <ul>{listItems}</ul> */}
 			</div>
-{/* 
-			<div className="flex gap-3">
-				<Link
-					isExternal
-					href={siteConfig.links.docs}
-					className={buttonStyles({ color: "primary", radius: "full", variant: "shadow" })}
-				>
-					Documentation
-				</Link>
-				<Link
-					isExternal
-					className={buttonStyles({ variant: "bordered", radius: "full" })}
-					href={siteConfig.links.github}
-				>
-					<GithubIcon size={20} />
-					GitHub
-				</Link>
-			</div> */}
 
 			<div className="mt-8">
-				<Snippet hideSymbol hideCopyButton variant="flat">
-					{/* <span>
-						Get started by editing <Code color="primary">app/page.tsx</Code>
-					</span> */}
-				</Snippet>
 				<Photos />
-
 			</div>
+
 		</section>
 	);
 }

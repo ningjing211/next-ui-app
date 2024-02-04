@@ -1,7 +1,7 @@
 'use client';
 
 import React from 'react'
-import { Gallery } from 'next-gallery'
+// import { Gallery } from 'next-gallery'
 import {Card, CardBody, CardFooter, Image} from "@nextui-org/react";
 
 
