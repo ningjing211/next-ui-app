@@ -23,6 +23,14 @@ export const siteConfig = {
     {
       label: "About",
       href: "/about",
+    },
+    {
+      label: "Visuals",
+      href: "/visuals",
+    },
+    {
+      label: "Videos",
+      href: "/videos",
     }
 	],
 	navMenuItems: [
