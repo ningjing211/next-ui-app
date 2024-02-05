@@ -7,9 +7,9 @@ import Autoplay from 'embla-carousel-autoplay';
 
 const TWEEN_FACTOR = 4.2;
 
-const video1 = '/video-c-1.mp4';
-const video2 = '/video-c-2.mp4';
-const video3 = '/video-c-3.mp4';
+const video1 = '/video-c-1.mov';
+const video2 = '/video-c-2.mov';
+const video3 = '/video-c-3.mov';
 
 // const video1 = '/video-v-1'; const video2 = '/video-v-2'; const video3 = '/video-v-3';
 
