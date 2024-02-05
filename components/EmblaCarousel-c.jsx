@@ -68,10 +68,10 @@ const numberWithinRange = (number, min, max) =>
                   alt="Your alt text"
                 /> */}
 
-                <video className="embla__slide__img" autoPlay muted loop controls>
+                <video className="embla__slide__img w-auto" autoPlay muted loop controls>
                     <source src={imageByIndex(index)} type="video/mp4" />
                 </video>
-
+                
               </div>
             ))}
           </div>

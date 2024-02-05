@@ -1,16 +1,16 @@
 .embla {
   --slide-spacing: 1rem;
   --slide-size: 100%;
-  --slide-height: 58rem;
+  /* --slide-height: 58rem; */
   padding: 1.6rem;
 }
 
 .embla_h {
-  --slide-height: 42rem;
+  /* --slide-height: 42rem; */
 }
 
 .embla_c {
-  --slide-height: 33rem;
+  /* --slide-height: 33rem; */
 }
 
 .embla__viewport {
